@@ -24,6 +24,8 @@ public class GitHubTestDemo {
         
         System.out.println(" Get Your name " + obj1.getName());
         
+        // Callng the getname method
+        
     }
     
 }
